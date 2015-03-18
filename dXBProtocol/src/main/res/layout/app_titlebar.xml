@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<FrameLayout android:layout_width="fill_parent"
+		android:layout_height="fill_parent">
+		<TextView android:id="@+id/txtviewTitle" android:text="DXBProtocol"
+			android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/app_title_text">
+		</TextView>
+		<ProgressBar android:id="@+id/prgAppTitle"
+			android:layout_width="30dip" android:layout_height="30dip"
+			android:layout_gravity="right" android:layout_marginRight="5dip"
+			android:layout_marginTop="5dip" android:visibility="gone"></ProgressBar>
+	</FrameLayout>
+</LinearLayout>

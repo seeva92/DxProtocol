@@ -1,0 +1,39 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'dxprotocol'
+            keyPassword 'password'
+            storeFile file('/Work/DxProtocolKey.jks')
+            storePassword 'password'
+        }
+    }
+    compileSdkVersion 19
+    buildToolsVersion "21.1.2"
+    defaultConfig {
+        applicationId "com.android.dxbprotocol"
+        minSdkVersion 14
+        targetSdkVersion 14
+        signingConfig signingConfigs.config
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.config
+        }
+        debug {
+            signingConfig signingConfigs.config
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile project(':showcaselibrary')
+    compile project(':imagesliderlib')
+    compile 'com.android.support:support-v4:19.1.0'
+    compile files('libs/commons-lang3-3.1.jar')
+}

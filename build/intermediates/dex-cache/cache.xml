@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Shiva/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Work/DxProtocol/dXBProtocol/build/intermediates/pre-dexed/debug/support-v4-19.1.0-324deb11bf3984be79274441f3a8aa44c6a68d82.jar" />
+    </item>
+    <item
+        jar="/Work/DxProtocol/dXBProtocol/libs/commons-lang3-3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="/Work/DxProtocol/dXBProtocol/build/intermediates/pre-dexed/debug/commons-lang3-3.1-57145e3aafc8c12532f986aa8362719ab0d08470.jar" />
+    </item>
+    <item
+        jar="/Work/DxProtocol/dXBProtocol/build/intermediates/exploded-aar/DxProtocol/imagesliderlib/unspecified/libs/NineOldAndroid-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Work/DxProtocol/dXBProtocol/build/intermediates/pre-dexed/debug/NineOldAndroid-2.4.0-0547c34f428a61951ca790b48c29ca93098dfca6.jar" />
+    </item>
+    <item
+        jar="/Work/DxProtocol/dXBProtocol/build/intermediates/exploded-aar/DxProtocol/imagesliderlib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8a15754fd1f1c6d036ef9dcf43021bbb112a1c53">
+        <dex dex="/Work/DxProtocol/dXBProtocol/build/intermediates/pre-dexed/debug/classes-1ae2d076f5196afb26c5639b5a02517221a26dea.jar" />
+    </item>
+    <item
+        jar="/Work/DxProtocol/dXBProtocol/build/intermediates/exploded-aar/DxProtocol/imagesliderlib/unspecified/libs/picasso-2.3.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc">
+        <dex dex="/Work/DxProtocol/dXBProtocol/build/intermediates/pre-dexed/debug/picasso-2.3.3-da925c23080b2d20b6c866da3cc27fdea4fca18d.jar" />
+    </item>
+    <item
+        jar="/Work/DxProtocol/dXBProtocol/build/intermediates/exploded-aar/DxProtocol/showcaselibrary/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ae2577e5852f178fde0adc270eb61860e59e339f">
+        <dex dex="/Work/DxProtocol/dXBProtocol/build/intermediates/pre-dexed/debug/classes-87c0fda943ae1430dec6a92e7740bed0a0e66dde.jar" />
+    </item>
+
+</items>

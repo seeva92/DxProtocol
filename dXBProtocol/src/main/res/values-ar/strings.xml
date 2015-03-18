@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="settings">الإعدادات</string>
+    <string name="about_the_app">عن التطبيق</string>
+    <string name="coach_marks">علامات كيفية الاستخدام</string>
+    <string name="notification">الإخطارات</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="login">دخول</string>
+    <string name="mobile">الهاتف المتحرك</string>
+    <string name="sms_code">رمز الدخول</string>
+    <string name="profile">المعلومات الشخصية</string>
+    <string name="personal_information">المعلومات الشخصية</string>
+    <string name="pa_information">معلومات المساعد الشخصي</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="gender">الجنس</string>
+    <string name="birthday">تاريخ الميلاد</string>
+    <string name="company">المؤسسة</string>
+    <string name="position">المنصب</string>
+    <string name="local_number">الهاتف المتحرك (الامارات)</string>
+    <string name="mobile_number">الهاتف المتحرك</string>
+    <string name="main_number">الهاتف الرئيسي</string>
+    <string name="fax_number">الفاكس</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="nationality">الجنسية</string>
+    <string name="name">اسم</string>
+    <string name="telephone">هاتف</string>
+    <string name="address">العنوان</string>
+    <string name="dress_code">اللباس الرسمي</string>
+    <string name="note">ملاحظة</string>
+    <string name="no">لا</string>
+    <string name="yes">نعم</string>
+    <string name="upcoming">القادمة</string>
+    <string name="past">السابقة</string>
+    <string name="search_events">بحث الأحداث</string>
+    <string name="invitation_list">قائمة الدعوات</string>
+
+</resources>
